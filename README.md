@@ -1,15 +1,15 @@
-## 🌸 Hey! What's up..
+# 🌸 Hey! What's up..
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## 🔥 About
+# 🔥 About
 
 - Vladie, 20
 - Full Stack Web Developer
 - ReactJS & NodeJS Enthusiast
 - Constantly learning
 
-## 🖥️ Tech Stack
+# 🖥️ Tech Stack
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=CSS3&label=&color=1572B6&labelColor=000000)
@@ -36,7 +36,7 @@
 ![Photoshop](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-photoshop&message=Photoshop&label=&color=31A8FF&labelColor=000000)
 ![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-xd&message=Adobe%20XD&label=&color=FF61F6&labelColor=000000)
 
-## 🕶️ Showcase
+# 🚀: Showcase
 
 <a href="https://github.com/MiVladie/journeyplannner">
   <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=MiVladie&repo=journeyplanner&cache_seconds=86400&theme=calm"/>
@@ -54,14 +54,14 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=MiVladie&repo=moviesfinder&cache_seconds=86400&theme=calm"/>
 </a>
 
-## :octocat: GitHub
+# :octocat: GitHub
 
 <a href="https://github.com/MiVladie">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiVladie&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiVladie&layout=compact&langs_count=8&theme=calm"/>
 </a>
 
-## 📫 Connect 
+# 📫 Connect 
 
 [<img align="left" alt="JustVladon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/JustVladon)
 [<img align="left" alt="mivladie  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/mivladie)
