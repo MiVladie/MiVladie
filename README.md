@@ -50,7 +50,7 @@ while (true) {
 
 # 🚀 Showcase
 
-<a href="https://github.com/MiVladie/journeyplannner">
+<a href="https://github.com/MiVladie/journeyplanner">
   <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=MiVladie&repo=journeyplanner&cache_seconds=86400&theme=calm"/>
 </a>
 
