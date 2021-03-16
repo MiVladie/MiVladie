@@ -4,13 +4,6 @@ Heyo! Welcome to my portfolio ;)
 
 # 🔥 About
 
-<table>
-<tr>
-<td>
-<img width="250" src="https://scontent.fuio19-1.fna.fbcdn.net/v/t1.0-1/c0.47.200.200a/p200x200/132229924_2181193512014762_5371736929247950495_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=7206a8&_nc_ohc=VCByj5N5iMYAX-RmBef&_nc_ht=scontent.fuio19-1.fna&tp=27&oh=9a756130a38a5b27a7011a57afc6ebce&oe=60740D11" />
-</td>
-<td>
-
 ```javascript
 
 import currentTechSkills from '/data/skills.json';
@@ -27,10 +20,6 @@ while (true) {
 }
 
 ```
-
-</td>
-</tr>
-</table>
 
 # 🖥️ Tech Stack
 
