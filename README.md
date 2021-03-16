@@ -39,22 +39,26 @@
 ## 🕶️ Showcase
 
 <a href="https://github.com/MiVladie/journeyplannner">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=MiVladie&repo=journeyplanner&cache_seconds=86400&theme=calm"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=MiVladie&repo=journeyplanner&cache_seconds=86400&theme=calm"/>
 </a>
 
 <a href="https://github.com/MiVladie/ashkaesthetics">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=MiVladie&repo=ashkaesthetics&cache_seconds=86400&theme=calm"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=MiVladie&repo=ashkaesthetics&cache_seconds=86400&theme=calm"/>
+</a>
+
+<a href="https://github.com/MiVladie/beautyatluxx">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=MiVladie&repo=beautyatluxx&cache_seconds=86400&theme=calm"/>
 </a>
 
 <a href="https://github.com/MiVladie/moviesfinder">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=MiVladie&repo=moviesfinder&cache_seconds=86400&theme=calm"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=MiVladie&repo=moviesfinder&cache_seconds=86400&theme=calm"/>
 </a>
 
 ## :octocat: GitHub
 
 <a href="https://github.com/MiVladie">
-  <img height="202em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiVladie&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="202em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiVladie&layout=compact&langs_count=8&theme=calm"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiVladie&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiVladie&layout=compact&langs_count=8&theme=calm"/>
 </a>
 
 ## 📫 Connect 
