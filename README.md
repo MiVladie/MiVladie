@@ -1,6 +1,6 @@
 # 🌸 Hey! What's up..
 
-Heyo! Welcome to my portfolio ;)
+<img src="https://raw.githubusercontent.com/MiVladie/MiVladie/main/Banner.png" />
 
 # 🔥 About
 
