@@ -1,13 +1,36 @@
 # 🌸 Hey! What's up..
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+Heyo! Welcome to my portfolio ;)
 
 # 🔥 About
 
-- Vladie, 20
-- Full Stack Web Developer
-- ReactJS & NodeJS Enthusiast
-- Constantly learning
+<table>
+<tr>
+<td>
+<img width="250" src="https://scontent.fuio19-1.fna.fbcdn.net/v/t1.0-1/c0.47.200.200a/p200x200/132229924_2181193512014762_5371736929247950495_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=7206a8&_nc_ohc=VCByj5N5iMYAX-RmBef&_nc_ht=scontent.fuio19-1.fna&tp=27&oh=9a756130a38a5b27a7011a57afc6ebce&oe=60740D11" />
+</td>
+<td>
+
+```javascript
+
+import currentTechSkills from '/data/skills.json';
+
+const skills = [ ...currentTechSkills ];
+
+while (true) {
+    const coolTech = findAmazingTechnology();
+    const project = await createNewInterestingProject(coolTech);
+    
+    addProjectToPortfolio(project);
+    
+    skills.push(newTech);
+}
+
+```
+
+</td>
+</tr>
+</table>
 
 # 🖥️ Tech Stack
 
@@ -36,7 +59,7 @@
 ![Photoshop](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-photoshop&message=Photoshop&label=&color=31A8FF&labelColor=000000)
 ![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-xd&message=Adobe%20XD&label=&color=FF61F6&labelColor=000000)
 
-# 🚀: Showcase
+# 🚀 Showcase
 
 <a href="https://github.com/MiVladie/journeyplannner">
   <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=MiVladie&repo=journeyplanner&cache_seconds=86400&theme=calm"/>
